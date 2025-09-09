@@ -1,16 +1,38 @@
-## Hi there 👋
+ # Hii, I'm *Kamila Mukash* 👋  
 
-<!--
-**kamiverse1412/kamiverse1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Almaty, Kazakhstan | 3rd-Year IT Student at **[JIHC]**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me  
+💻 Future **Mobile App Developer** who loves turning creative ideas into real apps!  
+🔥 Currently exploring **Flutter** & **Firebase** to build sleek, modern apps.  
+🎯 Goal: Create apps that people actually love using!  
+✨ Bonus fact: I’m also a **debater**🎤.  
+
+---
+
+## 🛠 Tech Playground  
+- 🚀 **Flutter & Dart** – My main superpower  
+- 🐍 Python | 🎮 Pygame | 🖥 C#  
+- 🗄 SQL & Database Management  
+- 🎨 UI/UX & Design Thinking  
+
+---
+
+## 🎮 When I’m Not Coding...  
+- 🎤 Crushing it in **debates**  
+- 🏆 Joining **hackathons** and pushing my limits  
+- 🧘 Doing **yoga** for a peaceful mind  
+- 🚶 Going on relaxing **walks** to recharge  
+
+---
+
+## 🔗 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/lesyeuxdeka)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/kamiverse_m)  
+
+---
+
+💡 **Fun fact:** I can code faster than my coffee gets cold. ☕💻  
+
