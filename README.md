@@ -29,7 +29,7 @@
 ---
 
 ## 🔗 Let’s Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/lesyeuxdeka)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lesyeuxdeka/?trk=opento_sprofile_details)  
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/kamiverse_m)  
 
 ---
